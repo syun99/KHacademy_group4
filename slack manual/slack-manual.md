@@ -1,15 +1,3 @@
----
-layout: posts
-title: KH 우리 반을 위한 슬랙 설명서
-date: 2019-03-08 14:37:11
-tags: 
-	- slack
-	- khacademy
-categories:
-	- ideas
-cover: https://lh3.googleusercontent.com/ZkuFUnFB7t8VMG2DxRFKaJljem_R40EBf2_h_9W71aCAFQnb1f4H_ommm7dvLgud46O_cUHBgawrrrFb_WJ23xfwu37oPjCrmjo98yUDc8zpbdxHq-vSSoxmgxMRPLb9MQbngQpWkx_qnC3xSEmFvzBeWgR89jFekweqm_otTWx6ItZcJOVrAkqn7FxnESAqe2aT0O4akW0paf8h4eR6ot7Naj0wHYBYSRUXoWcEp8sa76UZnx1KDTPq3IapS6zQzyj6SQTQyrqPFuOnE4BQxONboNZSeuAdDDwQHfZnyl-qKGSKvBjrv1vd448csV8cajTklcjT-EstJVf-9xRIC7G5drwHb4hVQQucFYeFQl9mHiKStjSQZEdlJFN4ub5F9Wtm2QrWgR0_CEV2LdKdoB6zBbCbrEEwgTojxsjgNrl1gQAegPJ_0jR1JDyUjoM-66ieZQ4rswyPepWD7grJDsx9wZ3vgh3ZbeuoCvImNgHmwoPpdygQ4ZPxxAcFRaXHxVSPYyQu09cBu9qusbcKjhN6A8ASL-SPpEZTM2SGXxEPwgXhxGADsuqMMeEbhEw_mI1xVTZ6AUKpDQiduE87o9dnDej8A6St8mHFaO3ijnpK_MHqQ7SAWkjc_Yz2ARe-NL0TkdpuP84Yd-x-vehHgmcgv6OWOkUX=w1050-h700-no
----
-
 # KH 우리 반을 위한 슬랙 설명서
 
 글이 조금 긴 탓에 관심이 없는 분들은 지루하다고 느껴질 수 있어요. 음악들으면서 천천히 읽어요.😉🎵

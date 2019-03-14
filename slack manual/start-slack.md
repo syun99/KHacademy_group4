@@ -1,13 +1,3 @@
----
-title: 슬랙 가입하고 참여하기
-date: 2019-03-08 14:40:29
-tags:
-	- slack
-	- khacademy
-categories:
-	- ideas
----
-
 # 슬랙 가입하는 법
 
 ### 1. 위 링크 접속 화면
