@@ -6,11 +6,11 @@ import java.util.Scanner;
 public class Baseball {
 	public void game() {
 
-		Random rd = new Random(); // 0~9 ±îÁöÀÇ ·£´ıº¯¼ö»ı¼º
+		Random rd = new Random(); // 0~9 ê¹Œì§€ì˜ ëœë¤ë³€ìˆ˜ìƒì„±
 		int ans[] = new int[3];
 		ans[0] = rd.nextInt(10);
 		ans[1] = rd.nextInt(10);
-		ans[2] = rd.nextInt(10); // ¼¼ÀÚ¸®ÀÇ ·£´ıº¯¼ö »ı¼º
+		ans[2] = rd.nextInt(10); // ì„¸ìë¦¬ì˜ ëœë¤ë³€ìˆ˜ ìƒì„±
 
 //		System.out.print(ans[0]);
 //		System.out.print(ans[1]);
@@ -18,16 +18,16 @@ public class Baseball {
 
 		Scanner sc = new Scanner(System.in);
 		int choice[] = new int[3];
-		System.out.println("¼¼ÀÚ¸® ¼ıÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä");
+		System.out.println("ì„¸ìë¦¬ ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš”");
 
 		int input = sc.nextInt();
 		choice[0] = input / 100;
 		choice[1] = (input % 100) / 10;
-		choice[2] = (input % 100) % 10; // °¢ ÀÚ¸®ÀÇ ¼ö¸¦ ¹è¿­¿¡ ÀúÀåÇÏ´Â °úÁ¤
+		choice[2] = (input % 100) % 10; // ê° ìë¦¬ì˜ ìˆ˜ë¥¼ ë°°ì—´ì— ì €ì¥í•˜ëŠ” ê³¼ì •
 
-//		System.out.println("Ã¹Â°ÀÚ¸®"+choice[0]);
-//		System.out.println("µÑÂ°ÀÚ¸®"+choice[1]);
-//		System.out.println("¼ÂÂ°ÀÚ¸®"+choice[2]);
+//		System.out.println("ì²«ì§¸ìë¦¬"+choice[0]);
+//		System.out.println("ë‘˜ì§¸ìë¦¬"+choice[1]);
+//		System.out.println("ì…‹ì§¸ìë¦¬"+choice[2]);
 		int strike = 0;
 		int ball = 0;
 		
@@ -42,13 +42,13 @@ public class Baseball {
 				}
 			}
 		}
-		System.out.println("ÄÄÇ»ÅÍ¼ıÀÚ : ");
+		System.out.println("ì»´í“¨í„°ìˆ«ì : ");
 		System.out.print(ans[0]);
 		System.out.print(ans[1]);
 		System.out.print(ans[2]);
 		System.out.println();
-		System.out.println("½ºÆ®¶óÀÌÅ© : "+strike);
-		System.out.println("º¼ : "+ball);
+		System.out.println("ìŠ¤íŠ¸ë¼ì´í¬ : "+strike);
+		System.out.println("ë³¼ : "+ball);
 	}
 
 }
