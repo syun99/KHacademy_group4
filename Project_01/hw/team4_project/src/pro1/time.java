@@ -5,6 +5,7 @@ import java.util.Scanner;
 //- 현재시간을 입력하면 집에 갈때까지 남은 수업시간과 쉬는시간을 계산해줌
 
 public class time {
+	
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
