@@ -1,4 +1,4 @@
-﻿package study_project.miniproject;
+package study_project.miniproject;
 
 import java.util.Random;
 import java.util.Scanner;
